@@ -1,2 +1,2 @@
 # Emojipedia
-Created with CodeSandbox
+Single page app with cards explaining the emoji.
